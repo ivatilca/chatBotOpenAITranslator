@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/43d58239-f7fb-4c1e-ad5b-e570c5c104bf/resourceGroups/AOpenAI/providers/Microsoft.Web/sites/BotOpenAIWeb",
+  "appService.deploySubpath": "."
+}
